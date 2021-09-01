@@ -1,2 +1,2 @@
-# lifi
-Data transmission using a laser.
+# Laser Transmission
+Data transmission using a laser using OOK.
